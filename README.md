@@ -20,7 +20,7 @@ This repository contains a **VBA (Visual Basic for Applications)** script design
 
 ### How to Use:
 1. Open the **Multiple_year_stock_data.xlsm** file that contains the stock data for multiple years.
-2. Open the **alphabetical_testing.xlsx** file that contains the results of running the VBA script.
+2. Open the **alphabetical_testing.xlsm** file that contains the results of running the VBA script.
 3. Open the **VBA Developer Console** in Excel.
 4. Run the `StockAnalysis` macro to calculate and analyze the stock data.
 5. View the results in the summary and bonus tables within the Excel workbook.
